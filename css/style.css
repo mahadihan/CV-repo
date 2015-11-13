@@ -1,0 +1,30 @@
+.header_b{background: #FF7182;width: 100%;}
+.nav{width: 100%;color: #FFAE5D;margin-top: 108px;}
+.logo{margin-top: 10px;}
+.logo img:hover{box-shadow: 2px 2px 5px gray;}
+.logo p{color: #F8F8F2;font-weight: bold}
+
+.nav{margin-left: 55%;}
+.nav ul{}
+.nav ul li{}
+.nav ul li a{color: #F8F8F2;font-weight: bold}
+
+aside{border: 1px solid gray;border-radius: 5px;}
+
+aside img{margin-left: 12%}
+aside button{margin-left: 58%; color: #F8F8F2;font-weight: bold }
+aside p{margin-left: 12%;margin-right: 12%;margin-top: 15px;}
+
+.link{width: 76%;margin-left: 12%;margin-top: 20px;}
+
+.news{width: 80%; margin-left: 10%; margin-top: 28px;border-radius: 5px;}
+
+header{background: #F8DEBD;border-radius:12px 0px 12px 0px;margin-bottom: 0px;}
+
+.para{background: #F8F8F2;margin-top: 0px;}
+
+.top-footer{background: #F8DEBD;}
+
+.management{margin-top: 20px;}
+.management p{margin-top: 10px;}
+.management img{margin-left:20%;}
